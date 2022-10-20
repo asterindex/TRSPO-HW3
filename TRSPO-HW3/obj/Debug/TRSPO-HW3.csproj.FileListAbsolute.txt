@@ -1,0 +1,6 @@
+/Users/anatolykot/Projects/TRSPO-HW3/TRSPO-HW3/obj/Debug/TRSPO-HW3.csproj.AssemblyReference.cache
+/Users/anatolykot/Projects/TRSPO-HW3/TRSPO-HW3/obj/Debug/TRSPO-HW3.csproj.CoreCompileInputs.cache
+/Users/anatolykot/Projects/TRSPO-HW3/TRSPO-HW3/bin/Debug/TRSPO_HW3.exe
+/Users/anatolykot/Projects/TRSPO-HW3/TRSPO-HW3/bin/Debug/TRSPO_HW3.pdb
+/Users/anatolykot/Projects/TRSPO-HW3/TRSPO-HW3/obj/Debug/TRSPO_HW3.exe
+/Users/anatolykot/Projects/TRSPO-HW3/TRSPO-HW3/obj/Debug/TRSPO_HW3.pdb
