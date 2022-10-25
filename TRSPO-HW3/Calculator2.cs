@@ -42,7 +42,7 @@ namespace TRSPO_HW3
                 if (data.CurNumber % 2 == 0)
                 {
                     data.CurNumber = data.CurNumber / 2;
-                    Thread.Sleep(1);
+                   
                    
                     Interlocked.Increment(ref _steps);
                     if (data.CurNumber == 1)
@@ -57,7 +57,7 @@ namespace TRSPO_HW3
                 else
                 {
                     data.CurNumber = data.CurNumber * 3 + 1;
-                    Thread.Sleep(1);
+                   
                     
                     Interlocked.Increment(ref _steps);
                     lock (_queue)
